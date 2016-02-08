@@ -1,0 +1,100 @@
+body {
+	
+	//background-image: url(../images/bw.jpg);
+	//background-position: 80px 0px;
+	//background-repeat: repeat-y;
+
+	background-color: black;
+
+	//background: linear-gradient(bottom right, white, black);
+	//background: -webkit-linear-gradient(bottom right, white, black);
+	//background: -moz-linear-gradient(bottom right, white, black);
+}
+
+h2{
+	font-family: anton;
+	font-size: 136px;
+	color: #0192D5;
+	text-align: left;
+	line-height: 120px;
+
+}
+
+h3{
+	font-family: anton;
+	font-size: 105px;
+	color: #0192D5;
+	text-align: left;
+	line-height: 1px;
+
+}
+
+h4{
+	font-family: arial;
+	letter-spacing: .007em;
+	font-size: 20px;
+	font-variant: small-caps;
+	color: #F5D42D;
+	text-align: left;
+	margin-left: 5px;
+	line-height: 2px;
+
+}
+
+a:link {
+	color: #0192D5;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0192D5;
+}
+
+a:hover {
+	color: black;
+}
+
+
+
+ #center {
+ margin-left: 200px;
+ padding: 25px;
+ height: 3300px;
+ width: 500px;
+ background-color: #262425;
+ float: left;
+}
+
+
+ #albumbs {
+ margin-left: 750px;
+ padding-top: 465px;
+ padding-left: 20px;
+ height: 2800px;
+ width: 125px;
+ background-color: black;
+}
+
+
+p{
+	font-size: 12px;
+	font-family: arial;
+	margin-left: 5px;
+	text-align: left;
+	letter-spacing: .03em;
+	color: white;
+	line-height: 16px;
+}
+
+
+  .bod {
+font-size: 12px;
+font-family: arial;
+margin-left: 5px;
+text-align: left;
+letter-spacing: .02em;
+color: white;
+ }
+
+
+

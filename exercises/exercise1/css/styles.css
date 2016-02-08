@@ -1,0 +1,45 @@
+body {
+background: #BDA0A1;
+}
+
+h1{
+	font-family: gotham;
+	font-size: 80px;
+	color: #65083A;
+	text-align: left;
+}
+
+h3{
+	font-family: poiret one;
+	font-size: 26px;
+	color: #065D6E;
+	text-align: center;
+}
+
+h4{
+	font-family: poiret one;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
+p{
+	font-family: gotham;
+	font-size: 12px;
+	color: #472D42;
+	text-align: justify;
+}
+
+h5{
+	font-family: poiret one;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+h6{
+	font-family: poiret one;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+}

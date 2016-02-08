@@ -1,0 +1,68 @@
+body {
+background: #white;
+}
+
+h1{
+	font-family: gotham;
+	font-size: 100px;
+	color: black;
+	text-align: left;
+}
+
+h4{
+	font-family: poiret one;
+	font-size: 40px;
+	color: white;
+	text-align: left;
+}
+
+a:link {
+	color: #065D6E;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #570732;
+}
+
+a:hover {
+	color: black;
+}
+
+#artist {
+background-color: #570732;
+font-family: poiret one;
+font-size: 80px;
+color: black;
+border: 3px solid #065D6E;
+text-align: left;
+width: 964px;
+margin: auto;
+padding-left: 20px
+ }
+
+ #talent {
+font-size: 20px;
+color: white;
+background-color: black;
+ }
+
+ .sidebar {
+font-size: 10px;
+font-family: gotham;
+margin-left: 5px;
+ }
+
+ #container {
+ margin: auto;
+ height: 500px;
+ width: 500px;
+ background-color: black;
+}
+
+#square1 {
+height: 20px;
+width: 60px;
+float: right;
+background-color: red;
+}
