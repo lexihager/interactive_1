@@ -1,0 +1,78 @@
+body {
+	background-color: white;
+}
+
+
+ #container {
+ margin: auto;
+ margin-top: 30px;
+ height: 5000px;
+ width: 1209px;
+ background-color: white;
+}
+
+
+#kyle {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 35px;
+	margin-top: 15px;
+	z-index: 1;
+}
+
+#esme {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+#karen {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 80px;
+	margin-top: 15px;
+}
+
+#kelly {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	margin-left: 322px;
+	padding-top: 15px;
+}
+
+
+#kyle2 {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 35px;
+	margin-top: 82px;
+}
+
+#esme2 {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 80px;
+	margin-top: 82px;
+}
+
+#border {
+	width:260px;
+	height:260px;
+	border: 10px solid black;
+	margin-top: -80px;
+	margin-left: 140px;
+	z-index: 0;
+	position: absolute;
+}

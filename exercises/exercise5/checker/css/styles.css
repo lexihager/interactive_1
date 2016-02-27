@@ -1,0 +1,21 @@
+#container {
+
+width: 800px;
+height: 1000px;
+margin: auto;
+background-color: white
+}
+
+#box {
+	width: 100px;
+	height: 100px;
+	background: purple;
+	float: left;
+}
+
+#box2 {
+	width: 100px;
+	height: 100px;
+	background: white;
+	float: left;
+}

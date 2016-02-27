@@ -1,0 +1,77 @@
+body {
+	background-color: black;
+}
+
+
+ #container {
+ 	margin: auto;
+ 	margin-top: 30px;
+ 	height: 5000px;
+ 	width: 1209px;
+ 	background-color: black;
+}
+
+#box1 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+}
+
+#box2 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+	transform: rot(90deg);
+}
+
+
+#diag {
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	float: left;
+}
+
+#patch2 {
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	float: left;
+}
+
+#patch3 {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: left;
+}
+
+#patch4 {
+	width: 200px;
+	height: 200px;
+	background-color: navy;
+	float: left;
+}
+
+
+#diamond {
+	width: 0;
+	height: 0;
+	border: 100px solid transparent;
+	border-bottom-color: navy;
+	position: relative;
+	top: -100px;
+}
+#diamond:after {
+	content: '';
+	position: absolute;
+	left: -100px;
+	top: 100px;
+	width: 0;
+	height: 0;
+	border: 100px solid transparent;
+	border-top-color: navy;
+}
+

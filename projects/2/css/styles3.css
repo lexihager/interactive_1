@@ -1,0 +1,65 @@
+body {
+	background-color: white;
+}
+
+
+ #container {
+ margin: auto;
+ margin-top: 30px;
+ height: 5000px;
+ width: 1209px;
+ background-color: white;
+}
+
+#square {
+	color: black;
+	width: 310px;
+	height: 310px;
+}
+
+#kyle {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 35px;
+	margin-top: 15px;
+	z-index: 0;
+}
+
+#kyle1 {
+	width:300px;
+	height:300px;
+	top: 2px;
+	left: 2px;
+	z-index: 1;
+	position: absolute;
+}
+
+#esme {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 82px;
+	margin-top: 15px;
+}
+
+#karen {
+	width:200px;
+	height:200px;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 82px;
+	margin-top: 15px;
+}
+
+
+#border {
+	width:260px;
+	height:260px;
+	border: 10px solid black;
+	top: 2px;
+	left: 2px;
+	position: absolute;
+}
