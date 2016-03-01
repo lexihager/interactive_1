@@ -1,0 +1,108 @@
+body {
+	background-color: black;
+
+}
+
+
+ #container {
+ 	margin: auto;
+ 	padding: 100px;
+ 	height: 5000px;
+ 	width: 1200px;
+ 	background-color: black;
+}
+
+#box1 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+	z-index: 0;
+}
+
+
+#patch1 {
+	width: 200px;
+	height: 200px;
+
+	float: left;
+}
+
+#patch2 {
+	width: 200px;
+	height: 200px;
+	
+	float: left;
+}
+
+#patch3 {
+	width: 200px;
+	height: 200px;
+
+	float: left;
+}
+
+#patch4 {
+	width: 200px;
+	height: 200px;
+
+	float: left;
+}
+
+#diamond {
+	width: 141px;
+	height: 141px;
+	background-color: navy;
+	transform: rotate(45deg);
+	margin: 30px;
+	z-index: 1;
+	position: absolute;
+}
+
+#diamond2 {
+	width: 141px;
+	height: 141px;
+	background-color: navy;
+	transform: rotate(315deg);
+	margin: 30px;
+	z-index: 1;
+	position: absolute;
+}
+
+#diamond3 {
+	width: 141px;
+	height: 141px;
+	background-color: navy;
+	transform: rotate(225deg);
+	margin: 30px;
+	z-index: 1;
+	position: absolute;
+}
+
+#box2 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+	z-index: 0;
+	transform: rotate(90deg);
+}
+
+
+#box3 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+	z-index: 0;
+	transform: rotate(270deg);
+}
+
+#box4 {
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	float: left;
+	z-index: 0;
+	transform: rotate(180deg);
+}

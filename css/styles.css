@@ -2,9 +2,18 @@ body {
 background: black;
 }
 
-h1{
+#headline {
 	font-family: gotham;
-	font-size: 80px;
+	font-size: 60px;
+	color: blue;
+	text-align: left;
+	color: white;
+	margin: 20px;
+}
+
+#projects {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 30px;
 	color: #65083A;
 	text-align: left;
 	color: white;

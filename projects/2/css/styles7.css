@@ -24,28 +24,28 @@ body {
 #patch1 {
 	width: 200px;
 	height: 200px;
-	background-color: blue;
+
 	float: left;
 }
 
 #patch2 {
 	width: 200px;
 	height: 200px;
-	background-color: purple;
+	
 	float: left;
 }
 
 #patch3 {
 	width: 200px;
 	height: 200px;
-	background-color: red;
+
 	float: left;
 }
 
 #patch4 {
 	width: 200px;
 	height: 200px;
-	background-color: navy;
+
 	float: left;
 }
 
