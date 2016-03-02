@@ -6,7 +6,7 @@ body {
 p {
 	font-size: 25pt;
 	color: white;
-	float: right;
+	text-align: right;
 	margin-top: -90px;
 	font-family: 'Amatic SC', cursive;
 }
