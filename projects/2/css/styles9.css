@@ -4,11 +4,10 @@ body {
 }
 
 p {
-	font-size: 20pt;
-	letter-spacing: 1px;
+	font-size: 25pt;
 	color: white;
-	margin-left: 502px;
-	margin-top: -50px;
+	float: right;
+	margin-top: -90px;
 	font-family: 'Amatic SC', cursive;
 }
 

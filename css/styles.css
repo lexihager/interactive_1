@@ -1,32 +1,39 @@
 body {
-background: black;
+	background-repeat: no-repeat;
+
 }
 
 #headline {
-	font-family: gotham;
+	font-family: anton;
 	font-size: 60px;
 	color: blue;
 	text-align: left;
-	color: white;
+	color: black;
 	margin: 20px;
+	text-align: center;
 }
 
 #projects {
-	font-family: 'Abril Fatface', cursive;
+	font-family: quicksand;
 	font-size: 30px;
-	color: #65083A;
+	color: #1ac5f3;
 	text-align: left;
-	color: white;
 	margin: 20px;
+	text-align: center;
+	background-color: white;
+	width:300px;
+	margin-left: 240px;
+	padding: 3px;
 }
 
+
 a:link {
-	color: #065D6E;
+	color: #1ac5f3;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #570732;
+	color: #1ac5f3;
 }
 
 a:hover {
