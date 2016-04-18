@@ -1,0 +1,43 @@
+body {
+	background: black;
+}
+
+
+
+@font-face {
+	font-family: 'Sail';
+	src: url("Sail.otf");
+}
+
+@font-face {
+	font-family: 'seafont';
+	src: url("seafont.ttf");
+}
+
+#container {
+	width: 1200px;
+	height: 4000px;
+	margin: auto;
+}
+
+#main {
+	font-family: Sail;
+	font-size: 70px;
+	color: magenta;
+	text-align: center;
+}
+
+#main2 {
+	font-family: Sail;
+	font-size: 300px;
+	color: white;
+	text-align: center;
+}
+
+#main3 {
+	font-family: seafont;
+	font-size: 200px;
+	color: purple;
+	text-align: center;
+	padding-top: 50px;
+}
