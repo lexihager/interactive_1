@@ -8,9 +8,7 @@ body {
                             margin-left: -20px;
                             margin-bottom: -200px;
                             background: black;
-                            background: linear-gradient(#394159, #041340, #0A44B8);
-                            background: -webkit-linear-gradient(#394159, #041340, #0A44B8);
-                            background: -moz-linear-gradient(#394159, #041340, #0A44B8);
+                            
                      }
 
 
@@ -733,7 +731,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 550px;
                             left: 200px;
@@ -746,7 +744,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 650px;
                             left: 280px;
@@ -759,7 +757,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 580px;
                             left: 300px;
@@ -772,7 +770,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 520px;
                             left: 570px;
@@ -785,7 +783,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 590px;
                             left: 410px;
@@ -798,7 +796,7 @@ body {
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
-                            color: #E6F5FF;
+                            color: #AAE9FF;
                             position: absolute;
                             top: 610px;
                             left: 490px;
