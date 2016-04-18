@@ -22,7 +22,7 @@ body {
                      -moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
                      100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; }
 
-                     #warped4 span{font-family: 'Gotham', sans-serif; font-size: 20px;font-weight:regular;font-style:normal;
+                     #warped4 span{font-family: 'Lobster', sans-serif; font-size: 20px;font-weight:regular;font-style:normal;
                      line-height:0.65; color: #E6F5FF; white-space:pre; overflow:visible; padding:0px;}
 
                      #warped4 .w0 {-moz-transform: rotate(-7.85rad);-webkit-transform: rotate(-7.85rad);-o-transform:
@@ -729,7 +729,7 @@ body {
                      .word1 {
                             font-family: Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
@@ -742,7 +742,7 @@ body {
                      .word2 {
                             font-family:Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
@@ -755,7 +755,7 @@ body {
                      .word3 {
                             font-family:Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
@@ -768,20 +768,20 @@ body {
                      .word4 {
                             font-family:Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
                             color: #E6F5FF;
                             position: absolute;
-                            top: 530px;
-                            left: 610px;
+                            top: 520px;
+                            left: 570px;
                      }
 
                      .word5 {
                             font-family:Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
@@ -794,7 +794,7 @@ body {
                      .word6 {
                             font-family:Gotham;
                             font-size:14px;
-                            font-weight:regular;
+                            font-weight:bold;
                             word-spacing: .5px;
                             font-style:normal;
                             line-height:0.65;
@@ -808,6 +808,14 @@ body {
 
 
 
+                     #words {
+                            position: absolute;
+                            z-index: 0;
+                            width: 500px;
+                            height: 500px;
+                            top: 620px;
+                            left: 585px;
+                     }
 
 
 
@@ -820,14 +828,13 @@ body {
 
 
 
-
-                     #warped2 {position: relative; display: block; width:883px; height:632px; top: 60px; left:400px;}
+                     #warped2 {position: absolute; display: block; width:883px; height:632px; top: 560px; left:400px; z-index: 1}
 
                      #warped2>span[class^=w]:nth-of-type(n+0){display:block; position:absolute;
                      -moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
                      100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; }
 
-                     #warped2 span{font-family: 'Gotham', cursive;font-size:18px;font-weight:regular;font-style:normal;
+                     #warped2 span{font-family: 'Lobster', cursive;font-size:18px;font-weight:regular;font-style:normal;
                      line-height:0.65; color: #C8F5D7; white-space:pre; overflow:visible; padding:0px;}
 
                      #warped2 .w0 {-moz-transform: rotate(2.64rad);-webkit-transform: rotate(2.64rad);-o-transform:
@@ -1910,13 +1917,13 @@ body {
                             left: 80px;
                      }
 
-                     #warped3 {position: absolute; display: block; width:400px; height:625px; top: 10px; left:105px;}
+                     #warped3 {position: absolute; display: block; width:400px; height:625px; top: 610px; left:105px;}
 
                      #warped3>span[class^=w]:nth-of-type(n+0){display:block; position:absolute;
                      -moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
                      100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; }
 
-                     #warped3 span{font-family:Gotham ;font-size:19px;font-weight:regular;font-style:normal;
+                     #warped3 span{font-family:Lobster ;font-size:19px;font-weight:regular;font-style:normal;
                      line-height:0.65; color: #F5F4D0; white-space:pre; overflow:visible; padding:0px;}
 
                      #warped3 .w0 {-moz-transform: rotate(2.97rad);-webkit-transform: rotate(2.97rad);-o-transform:
